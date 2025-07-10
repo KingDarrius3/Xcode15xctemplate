@@ -16,4 +16,4 @@ sh ./install.sh
 
 ## 手动安装
 
-复制 `CategoryNSObject`、`ExtensionNSObject` 目录到 `"/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/MultiPlatform/Source/Objective-C File.xctemplate"` 中。
+复制 `CategoryNSObject`、`ExtensionNSObject` 目录到 `"/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/MultiPlatform/Source/Objective-C File.xctemplate"` 中。.
